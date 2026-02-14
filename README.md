@@ -983,7 +983,7 @@ Where host is the name of extractor (eg. instagram, Twitch). Multiple accounts o
 
 |<img width="80" src="https://avatars.githubusercontent.com/u/105407900">|<img width="80" src="https://avatars.githubusercontent.com/u/113664541">|<img width="80" src="https://avatars.githubusercontent.com/u/84721324">|
 |:---:|:---:|:---:|
-|[`SilentDemonSD`](https://github.com/SilentDemonSD)|[`CodeWithWeeb`](https://github.com/weebzone)|[`Maverick`](https://github.com/MajnuRangeela)|
+|[`𝗗𝗩𝗜𝗧𝗧𝗔𝗟𝗕𝗢𝗧𝗭`](https://github.com/DVITTALBOTZ)|[`𝗗𝗩𝗜𝗧𝗧𝗔𝗟𝗕𝗢𝗧𝗭`](https://github.com/DVITTALBOTZ)|[`𝗗𝗩𝗜𝗧𝗧𝗔𝗟𝗕𝗢𝗧𝗭`](https://github.com/DVITTALBOTZ)|
 |Author and DDL, UI Design, More Customs..|Author and Wraps Up Features|Co-Author & Bug Tester|
 
 </details>
