@@ -6,9 +6,9 @@ class WZMLStyle:
     ST_BN1_URL = "http://t.me/dvittalbotz?direct"
     ST_BN2_NAME = "✨Updates✨"
     ST_BN2_URL = "https://t.me/DVITTALBOTZ"
-    ST_MSG = """<i>𝑇ℎ𝑖𝑠 𝑏𝑜𝑡 𝑐𝑎𝑛 𝑚𝑖𝑟𝑟𝑜𝑟 𝑎𝑙𝑙 𝑦𝑜𝑢𝑟 𝑙𝑖𝑛𝑘𝑠|𝑓𝑖𝑙𝑒𝑠|𝑡𝑜𝑟𝑟𝑒𝑛𝑡𝑠 𝑡𝑜 𝐺𝑜𝑜𝑔𝑙𝑒 𝐷𝑟𝑖𝑣𝑒 𝑜𝑟 𝑎𝑛𝑦 𝑟𝑐𝑙𝑜𝑛𝑒 𝑐𝑙𝑜𝑢𝑑 𝑜𝑟 𝑡𝑜 𝑡𝑒𝑙𝑒𝑔𝑟𝑎𝑚 𝑜𝑟 𝑡𝑜 𝑑𝑑𝑙 𝑠𝑒𝑟𝑣𝑒𝑟𝑠.</i>
+    ST_MSG = """<i>Tʜɪs ʙᴏᴛ ᴄᴀɴ ᴍɪʀʀᴏʀ ᴀʟʟ ʏᴏᴜʀ ʟɪɴᴋs|ғɪʟᴇs| ᴛᴏʀʀᴇɴᴛs ᴛᴏ Gᴏᴏɢʟᴇ Dʀɪᴠᴇ ᴏʀ ᴀɴʏ ʀᴄʟᴏɴᴇ ᴄʟᴏᴜᴅ ᴏʀ ᴛᴏ ᴛᴇʟᴇɢʀᴀᴍ ᴏʀ ᴛᴏ ᴅᴅʟ sᴇʀᴠᴇʀs.</i>
 <b>Type {help_command} to get a list of available commands</b>"""
-    ST_BOTPM = """<i>𝗡𝗼𝘄, 𝗧𝗵𝗶𝘀 𝗯𝗼𝘁 𝘄𝗶𝗹𝗹 𝘀𝗲𝗻𝗱 𝗮𝗹𝗹 𝘆𝗼𝘂𝗿 𝗳𝗶𝗹𝗲𝘀 𝗮𝗻𝗱 𝗹𝗶𝗻𝗸𝘀 𝗵𝗲𝗿𝗲. 𝗦𝘁𝗮𝗿𝘁 𝗨𝘀𝗶𝗻𝗴 ... ...</i>"""
+    ST_BOTPM = """<i>𝗡𝗼𝘄, 𝗧𝗵𝗶𝘀 𝗯𝗼𝘁 𝘄𝗶𝗹𝗹 𝘀𝗲𝗻𝗱 𝗮𝗹𝗹 𝘆𝗼𝘂𝗿 𝗳𝗶𝗹𝗲𝘀 𝗮𝗻𝗱 𝗹𝗶𝗻𝗸𝘀 𝗵𝗲𝗿𝗲. 𝗦𝘁𝗮𝗿𝘁 𝗨𝘀𝗶𝗻𝗴...</i>"""
     ST_UNAUTH = """<i>𝗬𝗼𝘂 𝗔𝗿𝗲 𝗻𝗼𝘁 𝗮𝘂𝘁𝗵𝗼𝗿𝗶𝘇𝗲𝗱 𝘂𝘀𝗲𝗿! 𝗗𝗲𝗽𝗹𝗼𝘆 𝘆𝗼𝘂𝗿 𝗼𝘄𝗻 𝗗𝗩𝗜𝗧𝗧𝗔𝗟 𝗠𝗶𝗿𝗿𝗼𝗿-𝗟𝗲𝗲𝗰𝗵 𝗯𝗼𝘁</i>"""
     OWN_TOKEN_GENERATE = (
         """<b>Temporary Token is not yours!</b>\n\n<i>Kindly generate your own.</i>"""
@@ -267,6 +267,9 @@ class WZMLStyle:
 
 ➲ <u><b>Available Args:</b></u>
 • <b>-s</b> or <b>-set</b>: Set Directly via Arg"""
+
+
+✦❘༻ 𝐏𝐨ᴡᴇʀᴇᴅ 𝐁ʏ : @DVITTALBOTZ  ༺❘✦
 
     UNIVERSAL = """㊂ <b><u>Universal Settings : {NAME}</u></b>
 
