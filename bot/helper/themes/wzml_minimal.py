@@ -268,9 +268,6 @@ class WZMLStyle:
 ➲ <u><b>Available Args:</b></u>
 • <b>-s</b> or <b>-set</b>: Set Directly via Arg"""
 
-
-✦❘༻ 𝐏𝐨ᴡᴇʀᴇᴅ 𝐁ʏ : @DVITTALBOTZ  ༺❘✦
-
     UNIVERSAL = """㊂ <b><u>Universal Settings : {NAME}</u></b>
 
 ┎<b> YT-DLP Options :</b> <b><code>{YT}</code></b>
