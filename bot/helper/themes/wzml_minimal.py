@@ -303,4 +303,3 @@ class WZMLStyle:
 ┠<b> Leech Dumps :</b> <code>{LDUMP}</code>
 ┠<b> Leech Remname :</b> <code>{LREMNAME}</code>
 ┖<B> Leech Metadata :</b> <code>{LMETA}</code>"""
-    ✦❘༻ 𝐏𝐨ᴡᴇʀᴇᴅ 𝐁ʏ : <a href="https://t.me/DVITTALBOTZ">  𝗗𝗩𝗜𝗧𝗧𝗔𝗟 𝗕𝗢𝗧𝗭 </a></b> ༺❘✦
