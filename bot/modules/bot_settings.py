@@ -71,7 +71,7 @@ default_values = {
     "BOT_LANG": "en",
     "IMG_PAGE": 1,
     "AUTHOR_NAME": "WZML-X",
-    "AUTHOR_URL": "https://t.me/WZML_X",
+    "AUTHOR_URL": "https://t.me/DVITTALBOTZ",
     "TITLE_NAME": "WZ Mirror/Leech X",
     "GD_INFO": "Uploaded by WZML-X",
 }
@@ -528,7 +528,7 @@ async def load_config():
 
     COVER_IMAGE = environ.get("COVER_IMAGE", "")
     if len(COVER_IMAGE) == 0:
-        COVER_IMAGE = "https://graph.org/file/60f9f8bcb97d27f76f5c0.jpg"
+        COVER_IMAGE = "https://files.catbox.moe/342boj.jpg"
 
     GD_INFO = environ.get("GD_INFO", "")
     if len(GD_INFO) == 0:
